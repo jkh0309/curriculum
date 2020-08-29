@@ -41,6 +41,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [jkh0309's Solution](https://github.com/jkh0309/rock-paper-scissors/blob/master/index.html)
 - [M1s1o's Solution](https://github.com/M1s1o/RockPaperScissors) - [View in Browser](https://m1s1o.github.io/RockPaperScissors/) 
 - [shalonday's Solution](https://github.com/shalonday/jakenpoy)
 - [SamAlhabash's Solution](https://github.com/SamAlhabash/RockPaperScissors-Console-Game)
